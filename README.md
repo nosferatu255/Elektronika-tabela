@@ -7,6 +7,7 @@ the manual.
 Ovaj program resava naj vecu tabelu iz predmeta Elektronika na VISERU.
 
 Pre-relese 
+
 To completly finish the table in the manual you have to run it 3 times
 For each time you have to enter a diffrent starting value (12V,17V and 24V)
 And then give the program the same measured values.
